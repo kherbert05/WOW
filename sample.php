@@ -1,5 +1,3 @@
-WOW
-===
 <?php
 echo "<html><body>";
 echo "<b>THIS IS A SAMPLE FANTASY PLATFORM APP</b>";
